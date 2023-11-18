@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">videocall</string>
+    <string name="let_s_start_a_video_naudio_call">Let\'s start a Video/\nAudio Call</string>
+    <string name="to_start_a_video_audio_call_please_enter_the_user_id_of_whom_you_want_to_call_and_select_the_option_of_video_audio_call">To start a video/audio call please enter the user ID of whom you want to call and select the option of video/audio call.</string>
+    <string name="user_id">User ID</string>
+    <string name="hi_user_id">Hi User Id!</string>
+    <string name="start_a_video_naudio_call">Start a Video/\nAudio Call</string>
+    <string name="start_a_video_audio_call_around_the_globe_in_few_seconds_and_enjoy_the_seamless_connection">Start a Video/Audio Call around the globe in few seconds and enjoy the seamless connection</string>
+    <string name="your_user_id">Your User ID</string>
+    <string name="next_button">Next Button</string>
+</resources>
